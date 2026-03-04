@@ -2,5 +2,50 @@
     "name": "US1 Stablecoin",
     "symbol": "US1",
     "description":" US1 Stablecoin ",
-    "image": "https://raw.githubusercontent.com/EasyEnd/us1_metadata/main/logo.jpg"
+    "image": "https://raw.githubusercontent.com/EasyEnd/us1_metadata/main/logo.jpg",
+     "attributes": [
+    {
+      "trait_type": "Issuer",
+      "value": "Dawn Breaker Tech LLC"
+    },
+    {
+      "trait_type": "Legal Form",
+      "value": "Limited Liability Company"
+    },
+    {
+      "trait_type": "Identification Number",
+      "value": "402353412"
+    },
+    {
+      "trait_type": "Registration Number",
+      "value": "09/10/2025"
+    },
+    {
+      "trait_type": "Registering Authority",
+      "value": "LEPL National Agency of Public Registry"
+    },
+    {
+      "trait_type": "Legal Address",
+      "value": "Georgia, Tbilisi, Chughureti district, Iv. Javakhishvili str. N26, apt.16"
+    }
+  ],
+
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "name": "Dawn Breaker Tech LLC",
+        "role": "Issuer"
+      }
+    ]
+  },
+
+  "company": {
+    "name": "Dawn Breaker Tech LLC",
+    "legal_form": "Limited Liability Company",
+    "identification_number": "402353412",
+    "registration_date": "2025-10-09",
+    "authority": "LEPL National Agency of Public Registry",
+    "address": "Georgia, Tbilisi, Chughureti district, Iv. Javakhishvili str., N26, apt.16"
+  }
   }
